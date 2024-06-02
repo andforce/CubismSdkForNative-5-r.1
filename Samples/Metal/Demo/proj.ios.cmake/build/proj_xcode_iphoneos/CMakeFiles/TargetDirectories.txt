@@ -1,0 +1,3 @@
+/Users/dywang/Downloads/CubismSdkForNative-5-r.1/Samples/Metal/Demo/proj.ios.cmake/build/proj_xcode_iphoneos/CMakeFiles/Demo.dir
+/Users/dywang/Downloads/CubismSdkForNative-5-r.1/Samples/Metal/Demo/proj.ios.cmake/build/proj_xcode_iphoneos/CMakeFiles/ALL_BUILD.dir
+/Users/dywang/Downloads/CubismSdkForNative-5-r.1/Samples/Metal/Demo/proj.ios.cmake/build/proj_xcode_iphoneos/Framework/CMakeFiles/Framework.dir
